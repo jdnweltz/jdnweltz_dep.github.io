@@ -85,7 +85,7 @@ sections:
               * Designed a  reinforcement learning algorithm to better select advertisements sourced by a variety of machine learning algorithms using query features and partially observed customer behavior signals
               * Implemented the infrastructure for evaluating the advantages of modifications to advertisement sourcing algorithms on downstream outcomes in Spark
               * Ran off-line experiments testing the utility of my algorithm over a week of Amazon search query traffic and found that it was consistently capturing more than 3% of the high-quality ads missed by the current method
-  - block: teaching
+  - block: experience
     id: teaching
     content:
       title: Teaching
