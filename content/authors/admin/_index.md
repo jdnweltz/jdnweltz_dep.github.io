@@ -70,7 +70,7 @@ skills:
     items:
       - name: Reading
         description: ''
-        percent: 60
+        percent: 100
         icon: book
         icon_pack: fas
 
