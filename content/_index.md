@@ -100,22 +100,20 @@ sections:
       items:
         - title: Teaching Assistant
           company: Duke University
-          company_url: ''
+          company_url: 'duke.edu'
           #company_logo: org-x
           location: New York
           date_start: '2024-01-01'
           date_end: '2024-05-25'
-          description: |2-
-          Course Selection TBD
+          description: Course Selection TBD
         - title: Teaching Assistant
           company: Duke University
-          company_url: ''
+          company_url: 'duke.edu'
           #company_logo: org-x
           location: New York
           date_start: '2021-09-05'
           date_end: '2021-12-05'
-          description: |2-
-          STA642: Time Series and Dynamic Models
+          description: STA642- Time Series and Dynamic Models
     design:
       columns: '2'
   - block: collection
