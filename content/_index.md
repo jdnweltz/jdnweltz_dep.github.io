@@ -85,7 +85,37 @@ sections:
               * Designed a  reinforcement learning algorithm to better select advertisements sourced by a variety of machine learning algorithms using query features and partially observed customer behavior signals
               * Implemented the infrastructure for evaluating the advantages of modifications to advertisement sourcing algorithms on downstream outcomes in Spark
               * Ran off-line experiments testing the utility of my algorithm over a week of Amazon search query traffic and found that it was consistently capturing more than 3% of the high-quality ads missed by the current method
-
+  - block: teaching
+    id: teaching
+    content:
+      title: Teaching
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Teaching Assistant
+          company: Duke University
+          company_url: ''
+          #company_logo: org-x
+          location: New York
+          date_start: '2024-01-01'
+          date_end: '2024-05-25'
+          description: |2-
+          Course Selection TBD
+        - title: Teaching Assistant
+          company: Duke University
+          company_url: ''
+          #company_logo: org-x
+          location: New York
+          date_start: '2021-09-05'
+          date_end: '2021-12-05'
+          description: |2-
+          STA642: Time Series and Dynamic Models
     design:
       columns: '2'
   - block: collection
