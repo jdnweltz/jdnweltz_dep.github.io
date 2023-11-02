@@ -89,7 +89,7 @@ sections:
     design:
       columns: '2'
   - block: portfolio
-    id: projects
+    id: project
     content:
       title: Current Research
       filters:
@@ -104,9 +104,9 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: Deep Learning
-          tag: Deep Learning
+          tag: *
         - name: Reinforcement Learning
-          tag: Reinforcement Learning
+          tag: *
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
