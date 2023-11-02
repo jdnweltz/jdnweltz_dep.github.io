@@ -104,8 +104,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-      Contact me with any questions!
+      text: Contact me with any questions!
       # Contact (add or remove contact options as necessary)
       email: justin.weltz@duke.edu
     design:
