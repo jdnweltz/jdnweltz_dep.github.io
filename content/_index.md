@@ -86,15 +86,19 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
       filters:
         folders:
-          - event
+          - publication
+        exclude_featured: true
     design:
       columns: '2'
-      view: compact
+      view: citation
   - block: contact
     id: contact
     content:
