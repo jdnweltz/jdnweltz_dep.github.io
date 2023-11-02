@@ -81,7 +81,7 @@ sections:
           #company_logo: org-x
           location: New York
           date_start: '2022-06-01'
-          date_end: '2023-04-31'
+          date_end: '2023-04-28'
           description: |2-
             *	Produced a series of reinforcement learning algorithms in Python to efficiently identify the optimal characteristics of prime membership advertisements through strategic sequential testing
             *	Adapted these models to complex data settings, including sparse signals and heteroskedastic noise
