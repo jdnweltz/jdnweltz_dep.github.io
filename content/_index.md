@@ -114,6 +114,22 @@ sections:
           date_start: '2021-09-05'
           date_end: '2021-12-05'
           description: STA642- Time Series and Dynamic Models
+        - title: Teaching Assistant
+          company: Duke University
+          company_url: 'duke.edu'
+          #company_logo: org-x
+          location: New York
+          date_start: '2020-09-05'
+          date_end: '2020-12-05'
+          description: STA721- Linear Models
+        - title: Teaching Assistant
+          company: Duke University
+          company_url: 'duke.edu'
+          #company_logo: org-x
+          location: New York
+          date_start: '2020-01-05'
+          date_end: '2020-05-27'
+          description: STA102- Introduction to Biostatistics
     design:
       columns: '2'
   - block: collection
