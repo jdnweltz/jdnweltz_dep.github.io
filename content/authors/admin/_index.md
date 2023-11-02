@@ -57,11 +57,16 @@ skills:
       - name: R
         description: ''
         percent: 100
-        icon: python
+        icon: r
         icon_pack: fab
-      - name: SQL
+      - name: MySQL
         description: ''
-        percent: 40
+        percent: 80
+        icon: database
+        icon_pack: fas
+      - name: Spark
+        description: ''
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Extracurricular Classes at Duke
