@@ -30,7 +30,7 @@ bio: ''
 # Interests to show in About widget
 interests:
   - Network sampling
-  - Experimental designs
+  - Experimental design
   - Reinforcement learning
   - Martingale estimating functions
 
