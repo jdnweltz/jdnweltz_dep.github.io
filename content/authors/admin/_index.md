@@ -64,13 +64,23 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Extracurricular Classes at Duke
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Reading
+      - name: Dante's Divine Comedy
         description: ''
         percent: 100
+        icon: book
+        icon_pack: fas
+      - name: Don Quixote
+        description: ''
+        percent: 100
+        icon: book
+        icon_pack: fas
+      - name: Methodology in Art History
+        description: ''
+        percent: 50
         icon: book
         icon_pack: fas
 
