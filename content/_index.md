@@ -66,7 +66,8 @@ sections:
         - title: Applied Scientist, Sponsored Products
           company: Amazon
           company_url: ''
-          company_logo: fa-amazon
+          company_logo: amazon
+          icon_pack: fab
           location: New York
           date_start: '2021-06-01'
           date_end: '2021-08-25'
