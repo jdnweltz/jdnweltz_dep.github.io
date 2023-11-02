@@ -11,6 +11,6 @@ authors:
 date: '2023-01-01'
 publishDate: '2023-11-02T02:34:20.335090Z'
 publication_types:
-- article-journal
-publication: '*arXiv preprint arXiv:2310.04390*'
+- paper-conference
+publication: 'Advances in Neural Information Processing Systems, 36'
 ---
