@@ -1,5 +1,5 @@
 ---
-title: Hidden Population Estimation with Auxiliary Information
+title: Reinforcement Learning Respondent Driven Sampling
 authors:
 - Justin Weltz
 - Angela Sun
