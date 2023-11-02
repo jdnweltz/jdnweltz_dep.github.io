@@ -1,5 +1,5 @@
 ---
-title: Reinforcement learning methods in public health
+title: Reinforcement Learning Methods in Public Health
 authors:
 - Justin Weltz
 - Alex Volfovsky
