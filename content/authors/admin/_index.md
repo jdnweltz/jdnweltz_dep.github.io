@@ -114,8 +114,8 @@ social:
 highlight_name: true
 ---
 
-I'm Justin, a Phd student at Duke University under the supervision of [Alexander Volfovsky](https://volfovsky.github.io/) and [Eric Laber](https://www.laber-labs.com/) . I create methods for the study and assistance of hard-to-reach populations. In recent news:
+I'm Justin, a Phd student at Duke University advised by [Alexander Volfovsky](https://volfovsky.github.io/) and [Eric Laber](https://www.laber-labs.com/) . I create methods for the study and assistance of hard-to-reach populations. In recent news:
 
-- I will be giving an invited talk at JSM 2024 on Reinforcement learning respondent driven sampling.
+- I will be giving an invited talk at JSM 2024 on my soon to be submitted paper: Reinforcement learning respondent driven sampling.
 - My paper [Hidden population estimation with auxiliary information](uploads/HidPopEst.pdf) was submitted to AISTATS 2024.
 - My paper [Experimental designs for heteroskedastic variance](uploads/experimental_designs_for_heter.pdf) was accepted to NeurIPS 2023.
