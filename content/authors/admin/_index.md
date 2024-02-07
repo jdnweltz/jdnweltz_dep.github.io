@@ -85,7 +85,7 @@ skills:
         icon_pack: fas
       - name: Methodology in Art History
         description: ''
-        percent: 50
+        percent: 100
         icon: book
         icon_pack: fas
 

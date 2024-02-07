@@ -105,7 +105,7 @@ sections:
           location: New York
           date_start: '2024-01-01'
           date_end: '2024-05-25'
-          description: Course Selection TBD
+          description: STA210- Regression Analysis
         - title: Teaching Assistant
           company: Duke University
           company_url: 'duke.edu'
