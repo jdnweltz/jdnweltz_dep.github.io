@@ -14,7 +14,7 @@ publishDate: '2023-11-02T02:34:20.335090Z'
 publication_types:
 - paper-conference
 publication: 'Advances in Neural Information Processing Systems, 36'
-url_pdf: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/d01db5cd2555ba11f75da0454d57b903-Abstract-Conference.html'
+#url_pdf: 'https://proceedings.neurips.cc/paper_files/paper/2023/hash/d01db5cd2555ba11f75da0454d57b903-Abstract-Conference.html'
 url_code: uploads/Var_Supplementary_Material.zip
 featured: true
 ---
