@@ -7,7 +7,7 @@ authors:
 - Alexander Volfovsky
 - Eric Laber
 date: '2024-01-01'
-publishDate: '2023-11-02T02:34:20.335090Z'
+publishDate: '2024-11-02T02:34:20.335090Z'
 publication_types:
 - article-journal
 publication: '*submitted to JASA'
